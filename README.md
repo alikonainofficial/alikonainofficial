@@ -1,9 +1,16 @@
-<h1 align="center">Hi, I'm Ali</h1>
-<h3 align="center">A Software Engineer</h3>
+<h1 align="center">Everybody Lies… Especially Their Code</h1>
+<h3 align="center">Code is like people———messy, unpredictable, and constantly needing to be fixed. I’ve wrangled everything from frontend frameworks to backend servers, cloud deployments to ad revenue optimizations. If it’s broken, I’ll find it. If it’s slow, I’ll speed it up. And if you think it can’t be done, you’re probably wrong. Welcome to my GitHub, where bugs come to die.
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial" alt="alikonainofficial" /></a> </p>
 
+- 🌱 I’m currently learning **sklearn**
+
 - 👨‍💻 All of my projects are available at [https://alikonainofficial.github.io/](https://alikonainofficial.github.io/)
+
+- 💬 Ask me about **next.js, nestjs, python, pokemon**
+
+- ⚡ A joke for a penny **Writing bug-free code is like trying to train a cat---both will pretend to listen, but neither gives a damn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
