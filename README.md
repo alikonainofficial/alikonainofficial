@@ -2,18 +2,22 @@
 <h3 align="center">Code is like people———messy, unpredictable, and constantly needing to be fixed. I’ve wrangled everything from frontend frameworks to backend servers, cloud deployments to ad revenue optimizations. If it’s broken, I’ll find it. If it’s slow, I’ll speed it up. And if you think it can’t be done, you’re probably wrong. Welcome to my GitHub, where bugs come to die.
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial&theme=onedark" alt="alikonainofficial" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial&theme=gruvbox&title=-Stars,-Followers&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="alikonainofficial" /></a> </p>
 
-- 🌱 I’m currently learning **sklearn**
+### 🌱 Currently Pretending to Care About
+I'm *supposedly* learning **scikit-learn**, but honestly, I'm just waiting for the model to magically tune itself.
 
-- 👨‍💻 All of my projects are available at [https://alikonainofficial.github.io/](https://alikonainofficial.github.io/)
+### 📂 Projects
+All my "brilliant" projects are available [here](https://alikonainofficial.github.io/). Feel free to browse and admire my genius—though I won’t hold my breath waiting for you to be impressed.
 
-- 💬 Ask me about **next.js, nestjs, python, pokemon**
+### 💬 Ask Me About...
+**Next.js, NestJS, Python, Pokémon.** If you're feeling brave, throw me a question. I may or may not give you a useful answer, but hey, that’s half the fun.
 
-- ⚡ A joke for a penny **Writing bug-free code is like trying to train a cat---both will pretend to listen, but neither gives a damn.**
+### ⚡ Harsh Reality Check: 
+*Writing bug-free code is like trying to train a cat: they'll pretend to listen, but in the end, neither of them gives a damn.*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ali-konain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-konain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14185939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14185939" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alikonain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alikonain" height="30" width="40" /></a>
@@ -26,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikonainofficial&show_icons=true&locale=en&layout=compact" alt="alikonainofficial" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikonainofficial&show_icons=true&locale=en" alt="alikonainofficial" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikonainofficial&show_icons=true&locale=en" alt="alikonainofficial" /></p>
