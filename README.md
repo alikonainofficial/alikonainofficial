@@ -2,7 +2,7 @@
 <h3 align="center">Code is like people———messy, unpredictable, and constantly needing to be fixed. I’ve wrangled everything from frontend frameworks to backend servers, cloud deployments to ad revenue optimizations. If it’s broken, I’ll find it. If it’s slow, I’ll speed it up. And if you think it can’t be done, you’re probably wrong. Welcome to my GitHub, where bugs come to die.
 </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial" alt="alikonainofficial" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial&theme=onedark" alt="alikonainofficial" /></a> </p>
 
 - 🌱 I’m currently learning **sklearn**
 
