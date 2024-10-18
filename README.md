@@ -1,5 +1,5 @@
 <h1 align="center">Everybody Lies… Especially Their Code</h1>
-<h3 align="center">Code is like people———messy, unpredictable, and constantly needing to be fixed. I’ve wrangled everything from frontend frameworks to backend servers, cloud deployments to ad revenue optimizations. If it’s broken, I’ll find it. If it’s slow, I’ll speed it up. And if you think it can’t be done, you’re probably wrong. Welcome to my GitHub, where bugs come to die.
+<h3 align="center">Code is like people———messy, unpredictable, and constantly needing to be fixed. I’ve wrangled everything from frontend frameworks to backend servers, cloud deployments to ad revenue optimizations. If it’s broken, I’ll fix it. If it’s slow, I’ll speed it up. And if you think it can’t be done, you’re probably wrong. Welcome to my GitHub, where bugs come to die.
 </h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial&theme=gruvbox&title=-Stars,-Followers&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="alikonainofficial" /></a> </p>
