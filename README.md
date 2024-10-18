@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikonainofficial&theme=gruvbox&title=-Stars,-Followers&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="alikonainofficial" /></a> </p>
 
-### 🌱 Currently Pretending to Care About
+### 🌱 Allegedly Working On
 I'm *supposedly* learning **scikit-learn**, but honestly, I'm just waiting for the model to magically tune itself.
 
 ### 📂 Projects
